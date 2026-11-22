@@ -1,7 +1,7 @@
 # Hirelytics 📊👥
 Hirelytics connects the two; tracking the hiring process and follows the hired employees' performance KPIs, allowing the company to see which hiring sources, stages and candidate profiles produce the best agents.
 
-> This is our graduation project for Round 5 of DEPI (Digital Egypt Pioneers Initiative) under the MCIT (Egypt's Ministry of Communications and Information Technology) - Professional Data Analysis Track 2026.
+> This is our graduation project for Round 5 of Digital Egypt Pioneers Initiative (DEPI) organized by the Egypt's Ministry of Communications and Information Technology (MCIT), under the Professional Data Analysis Track 2026.
 --- 
 
 ## Project Overview:
